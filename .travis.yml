@@ -6,7 +6,7 @@ python:
 
 
 script:
- - test_rpn
+ - test_rpn.test
 
 
 
