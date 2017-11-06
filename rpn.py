@@ -32,6 +32,12 @@ def main():
     while True:
         result = calculate(input("rpn calc> "))
         print("Result: ", result)
+        print("screw up my code coverage")
+        print("screw up my code coverage")
+        print("screw up my code coverage")
+        print("screw up my code coverage")
+        print("screw up my code coverage")
+        
 
 if __name__ == '__main__':
     main()
