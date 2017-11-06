@@ -11,5 +11,8 @@ script:
  - make test
 
 
+after_script:
+- coveralls
+
 
 
