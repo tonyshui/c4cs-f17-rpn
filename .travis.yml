@@ -5,7 +5,7 @@ python:
 
 
 script:
- - test_rpn.py
+ - make test
 
 
 
